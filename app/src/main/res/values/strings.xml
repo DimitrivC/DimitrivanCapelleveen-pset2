@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DimitrivanCapelleveen_pset2</string>
+    <string name="label_name">MadLib</string>
+    <string name="start_button">Start!</string>
+    <string name="TextViewSelection">Please select a story, or have one randomly selected for you</string>
+    <string name="ButtonSimple">Simple</string>
+    <string name="ButtonTarzan">Tarzan</string>
+    <string name="ButtonUniversity">University</string>
+    <string name="ButtonClothes">Clothes</string>
+    <string name="ButtonDance">Dance</string>
+    <string name="ButtonRandom">Random story!</string>
+    <string name="TextViewPlaceholder">Please insert placeholders for your story</string>
+    <string name="Next">Next</string>
+    <string name="Placeholder">Insert placeholder, press OK when done</string>
+</resources>
